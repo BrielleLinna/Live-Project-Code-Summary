@@ -14,4 +14,4 @@ This story required me to build a new SurveyModel, and then a secondary RentalSu
 
 Here is an example of the image provided as a launching point:
 
- ![alt tag](Story1-code.PNG)
+ ![alt tag](Story3-description2.PNG)
