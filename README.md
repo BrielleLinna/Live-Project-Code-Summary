@@ -17,5 +17,5 @@ Here is an example of the image provided as a launching point:
 ![alt tag](Story3-description2.png)
 
 Step 1: Create new Survey Model and define properties
-![alt tag](Story 2- Code-Rental.PNG)
+
 
