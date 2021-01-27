@@ -20,5 +20,5 @@ Step 1: Create new Survey Model and define properties
 ![alt tag](Story104.png)
 
 Step 2: Create a 1-1 relationship with Rebtal Survey and Survey Model
- ![alt tag](Story100.PNG)
+![alt tag](Story100.PNG)
 
