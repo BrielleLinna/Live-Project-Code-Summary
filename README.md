@@ -18,5 +18,5 @@ Here is an example of the image provided as a launching point:
 
 Step 1: Create new Survey Model and define properties
 
-![alt tag]Story 2- Code- Rental Survey.PNG)
+![alt tag](Story 2- Code- Rental Survey.PNG)
 
