@@ -20,3 +20,6 @@ Step 1: Create new Survey Model and define properties
 
 ![alt tag](Story 2- Code- Rental Survey.PNG)
 
+Step 2: 
+
+![alt tag](1-1 RentalSurvey.PNG)
