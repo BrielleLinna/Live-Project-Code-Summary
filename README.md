@@ -21,6 +21,10 @@ Step 1: Create new Survey Model and define properties
 
 ![alt tag](Story107.PNG)
 
+![alt tag](Story108.PNG)
+
+
+
 Step 2: Create a TPH relationship with Rebtal Survey and Survey Model
 ![alt tag](Story100.PNG)
 
