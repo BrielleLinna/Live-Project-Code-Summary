@@ -13,7 +13,9 @@ This story required me to add in a new NavBar section for the currently existing
 This story required me to build a new SurveyModel, and then a secondary RentalSurvey model which was to extend from the SurveyModel using a THP relationship. Additionally,  I needed to create a 1-1 relationship between the existing RentalRequest and the new RentalSurvey models. Lastly, I needed to create a SurveyController that generated CRUD view pages.
 
 Here is an example of the image provided as a launching point:
+
 ![alt tag](Story104.png)
+
 
 Step 1: Create new Survey Model and define properties
 
