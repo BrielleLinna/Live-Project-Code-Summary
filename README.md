@@ -16,8 +16,10 @@ Here is an example of the image provided as a launching point:
 
 ![alt tag](Story104.png)
 
+Step 1:Create a TPH relationship with Rebtal Survey and Survey Model
 
-Step 1: Create new Survey Model and define properties
+
+Step 2: Create new Survey Model and define properties and create a 1:1 relationship
 
 ![alt tag](Story107.PNG)
 
@@ -25,8 +27,5 @@ Step 1: Create new Survey Model and define properties
 
 ![alt tag](Story109.PNG)
 
-
-
-Step 2: Create a TPH relationship with Rebtal Survey and Survey Model
 ![alt tag](Story110.PNG)
 
