@@ -28,7 +28,15 @@ Step 1: Create new Survey Model and define properties and create a 1:1 relations
 
 ![alt tag](Story110.PNG)
 
-Step 1:Create a TPH relationship with Rebtal Survey and Survey Model
+Step 2:Create a TPH relationship with Rebtal Survey and Survey Model
 
 ![alt tag](Story111.PNG)
+
+Step 3: Make RentalRequest's Survey property of type RentalSurvey
+
+![alt tag](Story106.PNG)
+
+Step 4: Create Survey Controller with CRUD pages.
+
+![alt tag](Story113.PNG)
 
