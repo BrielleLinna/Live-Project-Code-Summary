@@ -8,7 +8,9 @@ This story required me to add in a new NavBar section for the currently existing
 
  ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story1-code.PNG?raw=true)
  
- ![alt tag](Before-admin_donorlist.PNG)
+ ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Before-admin_donorlist.PNG?raw=true)
+ 
+ ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/After-admin_donorlist_nav.PNG?raw=true)
  
  BACK END STORY:
  Create Survey Model and CRUD (
@@ -17,28 +19,28 @@ This story required me to build a new SurveyModel, and then a secondary RentalSu
 
 Here is an example of the image provided as a launching point:
 
-![alt tag](Story104.png)
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story104.png?raw=true)
 
 
 Step 1: Create new Survey Model and define properties and create a 1:1 relationship1
 
-![alt tag](Story107.PNG)
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story107.PNG?raw=true)
 
-![alt tag](Story108.PNG)
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story108.PNG?raw=true)
 
-![alt tag](Story109.PNG)
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story109.PNG?raw=true)
 
-![alt tag](Story110.PNG)
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story110.PNG?raw=true)
 
 Step 2:Create a TPH relationship with Rebtal Survey and Survey Model
 
-![alt tag](Story111.PNG)
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story111.PNG?raw=true)
 
 Step 3: Make RentalRequest's Survey property of type RentalSurvey
 
-![alt tag](Story106.PNG)
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story106.PNG?raw=true)
 
 Step 4: Create Survey Controller with CRUD pages.
 
-![alt tag](Story113.PNG)
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story113.PNG?raw=true)
 
