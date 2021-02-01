@@ -26,15 +26,11 @@ Here is an example of the image provided as a launching point:
 
 Step 1: Create new Survey Model and define properties and create a 1:1 relationship
 
-![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story107.PNG?raw=true)
-
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story108.PNG?raw=true)
 
+![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story107.PNG?raw=true)
+
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story109.PNG?raw=true)
-
-Step 2: Make RentalRequest's Survey Property to type Rental Survey
-
-![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story110.PNG?raw=true)
 
 Step 3:Create a TPH relationship with Rebtal Survey and Survey Model
 
