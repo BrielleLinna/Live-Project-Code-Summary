@@ -45,3 +45,14 @@ Create Survey Controller with CRUD pages.
 
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story113.PNG?raw=true)
 
+OTHER SKILLS I LEARNED:
+- I also began a story where I needed to replace a static dropdown to a customized bootstrap menu that appeared when a row was hoovered over.
+- I learned more in depth how the merge process is used to monitor and update group changes onto your local branch.
+- I learned how to use CSS to effect and target key rows to respond to only be visible upon hoover.
+- Working with a team off developers to locate new solutions to current problems within the code.
+- Identifying multiple ways in which to solve a problem and finding the one that was going to be the most efficent.
+- Solid communication how idenifying road blocks with your stories and team members stories to ensure we all had the code we needed to accomplish our stories.
+- Learning new effective methods to troubleshooting based on advice in our common group chat.
+- Collaberating with team members to help resolve an issue and come up with solutions, utilizing all of our unique eperience to come to a resolution.
+
+
