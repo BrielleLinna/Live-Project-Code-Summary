@@ -6,7 +6,7 @@ FRONT/BACK END STORY:
 Adding Donor List Dropdown/ Link Dropdown/ Link to Nav Bar
 This story required me to add in a new NavBar section for the currently existing page, Donor List.  The purpose of this was to allow the admin or back end user of this functioning website a quick link to a list of Donors using the NavBar only seen by the admin user.
 
- ![alt tag](Intern Photos/Story1-code.PNG)
+ ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story1-code.PNG?raw=true)
  
  ![alt tag](Before-admin_donorlist.PNG)
  
