@@ -24,7 +24,7 @@ Here is an example of the image provided as a launching point:
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story104.png?raw=true)
 
 
-Step 1: Create new Survey Model and define properties and create a 1:1 relationship1
+Step 1: Create new Survey Model and define properties and create a 1:1 relationship
 
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story107.PNG?raw=true)
 
@@ -32,17 +32,19 @@ Step 1: Create new Survey Model and define properties and create a 1:1 relations
 
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story109.PNG?raw=true)
 
+Step 2: Make RentalRequest's Survey Property to type Rental Survey
+
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story110.PNG?raw=true)
 
-Step 2:Create a TPH relationship with Rebtal Survey and Survey Model
+Step 3:Create a TPH relationship with Rebtal Survey and Survey Model
 
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story111.PNG?raw=true)
 
-Step 3: Make RentalRequest's Survey property of type RentalSurvey
+Step 4: Make RentalRequest's Survey property of type RentalSurvey
 
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story106.PNG?raw=true)
 
-Step 4: Create Survey Controller with CRUD pages.
+Step 5: Create Survey Controller with CRUD pages.
 
 ![alt tag](https://github.com/BrielleLinna/Software-Developer-Internship/blob/main/Intern%20Photos/Story113.PNG?raw=true)
 
