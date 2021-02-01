@@ -8,6 +8,8 @@ This story required me to add in a new NavBar section for the currently existing
 
  ![alt tag](Story1-code.PNG)
  
+ ![alt tag](Before-admin_donorlist.PNG)
+ 
  BACK END STORY:
  Create Survey Model and CRUD (
 
